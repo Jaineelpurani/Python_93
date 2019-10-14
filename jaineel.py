@@ -1,1 +1,2 @@
-prini("jaineel")
+prini("jurani")
+print("purani")
